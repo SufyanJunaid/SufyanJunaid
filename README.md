@@ -3,7 +3,7 @@
 <p align="center">Currently pursuing <b>Bachelors of Artificial Intelligence</b>
 <br><br>
 </p>
-
+<img align = "center"> <img src = "https://giphy.com/embed/wLNuW1tCKRiPmDV5Y4"alt="sufyanjunaid"/>
 <h3 align="center">Connect Here:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/sufyan-khan-a776492b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sufyanjunaid" height="30" width="40" /></a>
