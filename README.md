@@ -3,14 +3,12 @@
 <p align="center">Currently pursuing <b>Bachelors of Artificial Intelligence</b>
 <br><br>
 </p>
-<>
-<img align="center" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif"" alt="sufyanjunaid" height="80" width="80" />
+<p align="center"><img align="center" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif"" alt="sufyanjunaid"/></p>
 <h3 align="center">Connect Here:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/sufyan-khan-a776492b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sufyanjunaid" height="30" width="40" /></a>
 <br><br>
 </p>
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
@@ -21,12 +19,6 @@
 </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-</a> 
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-</a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
 </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
